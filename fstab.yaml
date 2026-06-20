@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "http://localhost:4502/bin/franklin.delivery/aemtutorial1/universal-editor-tutorial/main"
+    url: "https://author-p160157-e1740857.adobeaemcloud.com/bin/franklin.delivery/aemtutorial1/universal-editor-tutorial/main"
     type: "markup"
     suffix: ".html"
